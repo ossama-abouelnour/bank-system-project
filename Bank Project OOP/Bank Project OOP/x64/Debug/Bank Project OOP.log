@@ -1,0 +1,83 @@
+﻿  Bank Project OOP.cpp
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsUser.h(168,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginHistoryRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+      D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsUser.h(144,9):
+      see declaration of 'clsUser::stLoginHistoryRecord'
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(190,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferHistory' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+      D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(170,9):
+      see declaration of 'clsBankClient::stTransferHistory'
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(32,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(85,24): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(180,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(181,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(182,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(386,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(398,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsAddNewClient.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsUpdateClientScreen.h(32,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsTotalBalancesScreen.h(64,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsTransferScreen.h(32,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsTransferScreen.h(37,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsCurrency.h(28,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsUpdateCurrencyRate.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsCurrencyCalculator.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20OOP.cpp')
+  
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(340,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsBankClient.h(402,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsCurrency.h(180,1): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsCurrency.h(206,1): warning C4715: 'clsCurrency::FindByCountry': not all control paths return a value
+D:\repos\C++\OOP\Projects\Bank Project OOP\Bank Project OOP\clsUser.h(350,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project OOP.vcxproj -> D:\repos\C++\OOP\Projects\Bank Project OOP\x64\Debug\Bank Project OOP.exe
